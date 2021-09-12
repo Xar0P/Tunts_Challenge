@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gupy-challenge-325717",
+  "private_key_id": "feeb1554953d7ce627011f4a6dce72c45d98a9a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgMKQ2UaCqbZIs\nlIAZbOd4YPYiWyQuuVIVrFfDDUP2LAOe8I3dAaTuDx0qrclMjkUtjbxLULPQl4k+\nQMXhbb9rXVvEkRsQKDtHMujtwANZTJ9snIKcmfFc2d2eiG/u3JAagj/RRxt4pPMn\nDpISfMFlsqIoO/paY82Kcu1JbJVlIc5vOYwRsD+yOWHwQ6ZBiqC36fV9uUBhoFqH\nyzKGyDgUHFolXJhirI9cJgY0uCo/zu6siByQ9Xy9jhRWDbAnCmM9T0mlFP2AE5BF\nEsdrzB5C+CE5O1CnfsoKKmNs+QQcOyKndA/Y07Sz8hzKgT9ppbPdS73ZSJZ4NHM5\nrr1lhh8NAgMBAAECggEAEpcqi5JEFNtT/j/6sNiycUZBcmHE7HY96D2AzuZsd3aK\nsgilUhuFfko7Po9+H9gX/64mBtCWGbRobVTbkiqoLyfdxU14yFJ+9KecIDFrQhMS\nImr0foOgHwA6x9H6OYyX3be1e85migUMogD/I02erTSCvKwfRRu1iCaH0sBbAyou\nrx71zGLHfgPZ+ieAGDNTmei0oz6kWy9gNtiYoWYERXAot/Tf3wHXJg/lNQbpgan6\nqHn/lM+RUOkYBimlCQo0zn1OAEfW5mChKI7fYeFsNWeqIc/bvHmvEOblHwWD2f2a\nPdqmK4q4p5/GeUeTXv3tlygC58wwS2D6wjSKVv3mAQKBgQDiBveRWdy8cR8MB4ut\nnlhYkSXnON+o3UVShQ9aTOLCfhLEUJRIbyGeX/PVu2UtTPziy0GP4UQNMSjpU18h\nO3OKxldk7tZ288/+Y5t/a/U2ERJmx2ODTguk4rH7ngPd04TONdQrYHOF3SFczd43\nE+tqwaXXMbAagK/3lWRAvJ9JDQKBgQC1bqxcTMnut36OBJsMzPyEx5xUFC/UoVpr\nn+sGzTc4F9Px3fwpNs+gDCyPLOgJSlEfYNhqi8Hj/dhTP9E6gZ+Vzi7Mr2Ia7wA5\n1OBkHwOYKyt+Q37F7MKNmlC2cCUPAkHyagnINQ/XYc/DG1txma7bDKqemywiNqs+\nq8/iKkCuAQKBgD1i1QPl2vxW4K68sePCWI4dRaUJnjzXc4dY2fWVYhSeduxYUh1m\nCURhHPEURwNJoHjb6P9xl7DZhBnyaai148hx27Ru5VJDH18goE+3+03mzw+Y4V78\n6E6svtfub3BkjPIQToJFXLqjdvckdlCRGWPSGf9a4FAiWSgtq5+lWsFVAoGAJYdC\n98SacFpcPxwMxlUQVpbDa1DRo/XMMj7d6oZAScYD/R+hrRS9Vamu/d6YEHPi2864\ndTF7ZaF4QaANs0BktiPz4jrU3CVbspqp34vavnsPgAqOCnqys3+b+mCwCa653V65\nr0Pqhu6gfwcFnzXeyUiRckU+l8UfHtODKJD82AECgYAsE8V9EefQe7Tkm/YT5Lsm\nlUg08kbIuqqhz4MxssBMDoYocAbh4v11bjib0JP2VgvLw+1k0+/WOvzdpvfWjVsi\ncPQew+Cletoc6QgXxJpnA7QZA0uyj9GsWPv06QRIfTnM3ii017dbRfMXcxfBqf9j\nlQPN1KPUAzJLgyz7EzVM1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "algumnome@gupy-challenge-325717.iam.gserviceaccount.com",
+  "client_id": "104532662862626333528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/algumnome%40gupy-challenge-325717.iam.gserviceaccount.com"
+}
